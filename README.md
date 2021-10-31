@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 # Reference
 If you use this code for your research, please cite:
 
-- IGCN (the latest version):  
+- IGCN (he latest version):  
 M. Nakao, M. Nakamura, T. Matsuda, IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration, arXiv preprint, 2021.
 
 - IGCN Warp (MICCAI version):   
