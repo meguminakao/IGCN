@@ -1,7 +1,9 @@
 # IGCN : Image-to-graph convolutional network 
 IGCN is a learning framework for 2D/3D deformable mesh registration and alignment, and shape reconstruction from a single-viewpoint projection image. 
 
-The generative network learns the transformation from the 2D projection image to a displacement map, and the GCN samples the input features of each node from the generated displacement field and learns the transformation into a final 3D displacement vector
+The generative network learns the image translation from the 2D projection image to a displacement map.
+
+The GCN learns the transformation from the per-vertex feature to a final 3D displacement vector.
 
 
 # Examples
