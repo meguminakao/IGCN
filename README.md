@@ -1,4 +1,4 @@
-# IGCN : Image-to-graph network for shape reconsruction from a single projection image
+# IGCN : Image-to-graph network for shape reconsruction from a single-viewpoint projection image
 IGCN is designed as a generalized 2D/3D deformable mesh registration framework for shape reconstruction from a single-viewpoint projection image. 
 
 
