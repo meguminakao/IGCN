@@ -1,4 +1,5 @@
-# IGCN : Image-to-graph network for 2D/3D deformable mesh registration
+# IGCN : Image-to-graph network for 2D/3D deformable registration
+IGCN is designed as a generalized 2D/3D mesh registration framework for shape reconstruction from a single-viewpoint projection image. 
 
 
 # Prerequisites
@@ -14,7 +15,6 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 If you use this code for your research, please cite:
 
 - IGCN
-
 
 
 - IGCN Warp (MICCAI version): 
