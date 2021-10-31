@@ -1,4 +1,4 @@
-IGCN
+# IGCN
 
 TFLearn implementation IGCN
 
