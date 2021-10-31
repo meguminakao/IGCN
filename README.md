@@ -1,4 +1,4 @@
-# IGCN : Image-to-graph convolutional network for 2D/3D deformable mesh registration
+# IGCN : Image-to-graph network for 2D/3D deformable mesh registration
 
 
 # Prerequisites
@@ -8,4 +8,13 @@
 
 # Examples
 https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-8419-3b7affbd4e22.mp4
+
+
+# Reference
+If you use this code for your research, please cite:
+
+- IGCN
+
+- IGCN Warp:
+M. Nakao, M. Nakamura, T. Matsuda, "Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 259-268, 2021.
 
