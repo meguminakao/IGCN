@@ -1,5 +1,5 @@
 # IGCN : Image-to-graph convolutional network 
-IGCN is a learning framework for 2D/3D mesh alignment, deformable registration and shape reconstruction from a single-viewpoint projection image. 
+IGCN is a learning framework for 2D/3D deformable registration and alignment, and shape reconstruction from a single-viewpoint projection image. 
 
 
 # Examples
