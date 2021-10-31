@@ -5,7 +5,7 @@ IGCN is a learning framework for 2D/3D deformable registration and alignment, an
 # Examples
 https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-8419-3b7affbd4e22.mp4
 
-- Left (input): 10-frame sequential digitally reconstructed radiograph images from 4D-CT data 
+- Left (input): digitally reconstructed radiograph images from 4D-CT data (10-frame sequential volumes)  
 - Center (output): registered mesh of abdominal organs
 - Right (error): target (magenta) and predicted (cyan) mesh  
 
