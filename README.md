@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 # Reference
 If you use this code for your research, please cite:
 
-- IGCN
+- IGCN (the latest version):
 
 
 - IGCN Warp (MICCAI version): 
