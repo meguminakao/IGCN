@@ -5,11 +5,9 @@ IGCN is designed as a generalized 2D/3D deformable mesh registration framework f
 # Examples
 https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-8419-3b7affbd4e22.mp4
 
-Left image (input): 10-frame sequential digitally reconstructed radiograph images from 4D-CT data 
-
-Centeral image (output): registered meshes of abdominal organs (red: liver, blue: stomach, greeen: duodenum, yellow: kidney and gray: pancreatic cancer)  
-
-Right image (error): target (magenta) and predicted (cyan) mesh  
+- Left (input): 10-frame sequential digitally reconstructed radiograph images from 4D-CT data 
+- Center (output): registered meshes of abdominal organs (red: liver, blue: stomach, greeen: duodenum, yellow: kidney and gray: pancreatic cancer)  
+- Right (error): target (magenta) and predicted (cyan) mesh  
 
 # Prerequisites
 - Python 3.9
