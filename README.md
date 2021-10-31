@@ -15,6 +15,9 @@ If you use this code for your research, please cite:
 
 - IGCN
 
-- IGCN Warp:
+
+
+- IGCN Warp (MICCAI version): 
+
 M. Nakao, M. Nakamura, T. Matsuda, "Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image", International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 259-268, 2021.
 
