@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 
 # Prerequisites
 - Python 3.9
-- NVIDAI CUDA 11.2.0 and cuDNN 8.1.1
+- NVIDIA CUDA 11.2.0 and cuDNN 8.1.1
 - TFLearn with Tensorflow backend
 
 # Reference
