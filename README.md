@@ -23,4 +23,4 @@ https://arxiv.org/abs/2111.00484
 
 - IGCN Warp (MICCAI version):   
 M. Nakao, M. Nakamura, T. Matsuda, Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 259-268, 2021.
-
+https://link.springer.com/chapter/10.1007/978-3-030-87202-1_25
