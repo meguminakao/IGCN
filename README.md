@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 If you use this code for your research, please cite
 
 - IGCN (The latest version):  
-M. Nakao, M. Nakamura, T. Matsuda, IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration, arXiv preprint, 2021.
+M. Nakao, M. Nakamura, T. Matsuda, IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration, arXiv, 2111.00484, 2021.
 
 - IGCN Warp (MICCAI version):   
 M. Nakao, M. Nakamura, T. Matsuda, Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 259-268, 2021.
