@@ -1,5 +1,5 @@
-# IGCN : Image-to-graph convolutional network 
-IGCN is a learning framework for 2D/3D deformable model registration and alignment, and shape reconstruction from a single-viewpoint projection image. The generative network learns translation from the input projection image to a displacement map, and the GCN learns mesh deformation based on the sampled per-vertex feature and connectivity.
+# IGCN+ : Image-to-graph convolutional network 
+IGCN+/IGCN is a learning framework for 2D/3D deformable model registration and alignment, and shape reconstruction from a single-viewpoint projection image. The generative network learns translation from the input projection image to a displacement map, and the GCN learns mesh deformation based on the sampled per-vertex feature and connectivity.
 
 
 # Examples
@@ -17,10 +17,10 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 # Reference
 If you use this code for your research, please cite
 
-- IGCN (The latest version):  
-M. Nakao, M. Nakamura, T. Matsuda, IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration, arXiv, 2111.00484, 2021.
-https://arxiv.org/abs/2111.00484
+- IGCN+ (The latest version):  
+M. Nakao, M. Nakamura, T. Matsuda, Image-to-Graph Convolutional Network for 2D/3D Deformable Model Registration of Low-Contrast Organs, IEEE Trans. on Medical Imaging, 2022. (Early Access)
+https://ieeexplore.ieee.org/document/9844010
 
-- IGCN Warp (MICCAI version):   
+- IGCN (MICCAI version):   
 M. Nakao, M. Nakamura, T. Matsuda, Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image, International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 259-268, 2021.
 https://link.springer.com/chapter/10.1007/978-3-030-87202-1_25
