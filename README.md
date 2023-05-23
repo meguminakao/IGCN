@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/93433071/139565499-9b918d6a-a378-45d8-
 If you use this code for your research, please cite
 
 - IGCN+ (The latest version):  
-M. Nakao, M. Nakamura, T. Matsuda, Image-to-Graph Convolutional Network for 2D/3D Deformable Model Registration of Low-Contrast Organs, IEEE Trans. on Medical Imaging, 2022. (Early Access)
+M. Nakao, M. Nakamura, T. Matsuda, Image-to-graph convolutional network for 2D/3D deformable model registration of low-contrast organs, IEEE Trans. on Medical Imaging, Vol. 41, No. 12, pp. 3747-3761, 2022.
 https://ieeexplore.ieee.org/document/9844010
 
 - IGCN (MICCAI version):   
